@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file:///Applications/XAMPP/htdocs/SocialWebFunctions.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/SocialWebHeader.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/SocialWebIndex.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/SocialWebSetup.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/SocialWebSignup.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/authenticate_session.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/authentication.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/authentication_checking.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/cat.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/continue.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/convert.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/formtest.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/index.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/login.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/safeAccessMySQL.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/sanitizeString.php" dialect="MySQL" />
+    <file url="file:///Applications/XAMPP/htdocs/setupusers.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/sqltest.php" dialect="MySQL" />
     <file url="file:///Applications/XAMPP/htdocs/test.php" dialect="MySQL" />
   </component>
